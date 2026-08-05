@@ -108,7 +108,7 @@ header {
 
 .nav-etereo {
     background-color: #ffffff;
-    padding: 0.5rem 2rem;
+    padding: 1rem 2rem;
 }
 
 .nav-etereo a.navbar-brand {
@@ -812,6 +812,10 @@ details p + p {
     .productos-grid {
         grid-template-columns: repeat(3, 1fr);
     }
+
+    .categorias-grid {
+        grid-template-columns: 1fr 1fr;
+    }
 }
 
 /* Desktop */
@@ -833,5 +837,8 @@ details p + p {
         grid-template-columns: 1fr 1fr;
     }
 
-
+    .categorias-grid .carousel {
+        max-width: 80%;
+        margin: 0 auto;
+    }
 }
