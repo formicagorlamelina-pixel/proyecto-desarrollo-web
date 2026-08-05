@@ -17,8 +17,13 @@ Etéreo Tejidos es un emprendimiento de creaciones únicas hechas a mano. El sit
 ## Tecnologías utilizadas
 
 - HTML5
-- SCSS / CSS3
+- CSS3
 - Bootstrap
-- AOS (Animate On Scroll)
 
-## Estructura de carpetas
+## Deploy
+
+[Ver sitio en vivo](https://etereo-tejidos.netlify.app)
+
+## Repositorio
+
+[Ver en GitHub](https://github.com/formicagorlamelina-pixel/proyecto-desarrollo-web.git)
